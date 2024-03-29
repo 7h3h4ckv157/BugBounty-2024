@@ -1,7 +1,8 @@
 # How to start Bug Bounty Hunting $$$$ - 2024 
 
+{{ Start Bug Bounty Hunting &amp; earn some $$$$ }}
+
 <img src="https://www.synack.com/wp-content/uploads/2022/11/synack-bug-bounty-blog-2.jpg">
-Start Bug Bounty Hunting &amp; earn some $$$$ 
 
 - The majority of the assets are web. So it's essential to learn web technology. It'll help you to understand the game better & keep you ahead of the table. Learning languages like JS helps a lot. Once you know the basics of web (front-end, back-end, DB) flow, you can learn how to break it! 
 
