@@ -17,7 +17,8 @@
 - Skill Assessment:
 Sharpen your skills by doing Labs like Portswigger, PentesterLab, Secure Code, etc. Read the related blogs once you find it difficult to solve these challenges. Use a keyword and google it. Learn more & pwn the challenge later. Read Blogs and write-ups daily (it'll only take a little time). Subscribe to bug bounty blogs. 
 
-- Watch videos of these guys listed here: 
+- Watch videos of these guys listed here:
+```
 * LiveOverflow
 * InsiderPhd
 * Bug Bounty Reports Explained
@@ -30,7 +31,7 @@ Sharpen your skills by doing Labs like Portswigger, PentesterLab, Secure Code, e
 * Intigriti
 * etc.
 Their contents are outstanding. 
-
+```
 - Learn more about Public, Private, & VDP BB Programs and understand how it works. You can start hunting from a less competitive environment (up to you); people always suggest beginning with VDP.
 - Platforms for hunting bugs: https://www.trustradius.com/bug-bounty 
 - Apple, Meta, Google, etc. have their reporting end-points (don't forget)
