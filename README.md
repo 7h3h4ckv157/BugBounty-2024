@@ -42,4 +42,4 @@ Build your methodology. You can learn from public resources & apply, but make so
 
 
 For more updates about Offensive-Security & Hacking, 
-Follow me: <img src="https://camo.githubusercontent.com/a3bbf6eef0b40e86feb5e57b5051c9ee91785b2798fbfe0ea930baa62104482a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f433064334372347a79" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/7h3h4ckv157" style="max-width: 100%;">
+Follow me: <a href="https://twitter.com/7h3h4ckv157">7h3h4ckv157</a>
